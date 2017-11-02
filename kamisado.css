@@ -25,49 +25,41 @@ body {
 .orange {
     background-color: #ff4500;
 	color: #ff4500;
-    /*box-shadow: inset 0 0 1vmin .2vmin #551600;*/
 }
 
 .blue {
     background-color: #0000ff;
 	color: #0000ff;
-    /*box-shadow: inset 0 0 1vmin .2vmin #0000cd;*/
 }
 
 .purple {
     background-color: #800080;
 	color: #800080;
-    /*box-shadow: inset 0 0 1vmin .2vmin #550055;*/
 }
 
 .pink {
     background-color: #ff69b4;
 	color: #ff69b4;
-    /*box-shadow: inset 0 0 1vmin .2vmin #552a37;*/
 }
 
 .yellow {
     background-color: #ffff00;
 	color: #ffff00;
-    /*box-shadow: inset 0 0 1vmin .2vmin #555500;*/
 }
 
 .red {
     background-color: #ff0000;
 	color: #ff0000;
-    /*box-shadow: inset 0 0 1vmin .2vmin #550000;*/
 }
 
 .green {
     background-color: green;
 	color: green;
-    /*box-shadow: inset 0 0 1vmin .2vmin #005500;*/
 }
 
 .brown {
     background-color: saddlebrown;
 	color: saddlebrown;
-    /*box-shadow: inset 0 0 1vmin .2vmin #55280d;*/
 }
 
 .black {
